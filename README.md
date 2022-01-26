@@ -1,1 +1,1 @@
-![Screenshot](Image.jpg)
+![myimage-alt-tag](./Image.jpg)
