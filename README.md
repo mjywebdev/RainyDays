@@ -1,1 +1,1 @@
-![myimage-alt-tag](./Image.jpg)
+![myimage-alt-tag](./Image.JPG)
